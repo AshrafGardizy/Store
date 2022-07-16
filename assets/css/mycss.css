@@ -1,0 +1,95 @@
+.text-left {
+    text-align: left !important;
+}
+.text-right {
+    text-align: right !important;
+}
+.text-center {
+    text-align: center !important;
+}
+
+@media print {
+    button, a, input {
+        display: none !important;
+    }
+    .box {
+        border: none;
+    }
+    footer {
+        display: none !important;
+    }
+    .not_in_print {
+        display: none !important;
+    }
+    .table-bordered {
+        border: 1px solid #000 !important;
+    }
+    .btn {
+        display: none !important;
+    }
+}
+
+.width100 {
+    width: 100% !important;
+}
+
+
+/* Cards Started */
+.card {
+    border: 1px solid #ccc;
+}
+.card-2 {
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12) !important;
+}
+.card-4, .hover-shadow {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19) !important;
+}
+.card-8 {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19) !important;
+}
+.card-12 {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19) !important;
+}
+.card-16 {
+    box-shadow: 0 16px 24px 0 rgba(0,0,0,0.22),0 25px 55px 0 rgba(0,0,0,0.21) !important;
+}
+.card-24 {
+    box-shadow: 0 24px 24px 0 rgba(0,0,0,0.2),0 40px 77px 0 rgba(0,0,0,0.22) !important;
+}
+/* Cards Ended */
+
+.basic-link, .basic-link:hover, .basic-link:visited, .basic-link:active {
+    text-decoration: none;
+    color: black;
+}
+
+.text-white {
+    color: #fff;
+}
+
+.ltr {
+    direction: ltr !important;
+}
+.rtl {
+    direction: rtl !important;
+}
+
+.m4 {
+    margin: 4px;
+}
+.mb-4 {
+    margin-bottom: 4px;
+}
+.mt-4 {
+    margin-top: 4px;
+}
+.my-4 {
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+.pb-4 {
+    padding-bottom: 4px;
+}
+.pt-4 {
+    padding-top: 4px;
+}
