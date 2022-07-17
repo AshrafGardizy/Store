@@ -1,5 +1,5 @@
 # Store Management
-This project is about a local store. The store owner can manage inventories and, selling items, reportings, invoice and billings.
+This project is about a local store. The store owner can manage inventories, selling items, reportings, invoice and billings.
 
 
 ## Technologies used for developing this project:
