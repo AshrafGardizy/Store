@@ -1,6 +1,5 @@
-# LaraBlog
-LaraBlog is simple blog which is developed by Laravel Framework. This project can be used by anyone as a personal blog and includes all the functionalites of a blog like Post Management, Comments Mangement and Subscribers Management.
-
+# Store Management
+This project is developed for a local store. The store owner can manage inventory, reporting, invoices, and billings.
 
 ## Technologies used for developing this project:
 
