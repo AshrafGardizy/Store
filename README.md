@@ -1,5 +1,5 @@
-# Store Management
-This project is about a local store. The store owner can manage inventories, selling items, reportings, invoice and billings.
+# LaraBlog
+LaraBlog is simple blog which is developed by Laravel Framework. This project can be used by anyone as a personal blog and includes all the functionalites of a blog like Post Management, Comments Mangement and Subscribers Management.
 
 
 ## Technologies used for developing this project:
